@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Trustmaster t150",
+    "price": 5000,
+    "thumbnail": "https://www.discoazul.com/uploads/media/images/t150rs-ps.jpg",
+    "id": 1
+  },
+  {
+    "title": "Trustmaster TMX",
+    "price": 5000,
+    "thumbnail": "https://c1.neweggimages.com/ProductImage/26-606-035-S03.jpg",
+    "id": 2
+  },
+  {
+    "title": "Trustmaster t300",
+    "price": 10000,
+    "thumbnail": "https://m.media-amazon.com/images/I/81eiBUipVVL.jpg",
+    "id": 3
+  }
+]

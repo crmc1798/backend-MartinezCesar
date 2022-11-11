@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "title": "Trustmaster t150",
+        "description" : "Volante para simulacion compatible con PS3, PS4, PS5 y PC",
+        "price": 5000,
+        "platform" : "PS",
+        "img": "https://www.discoazul.com/uploads/media/images/t150rs-ps.jpg",
+        "stock": 25,
+        "brand":"Trustmaster"
+    },
+    {
+        "id": "2",
+        "title": "Trustmaster TMX",
+        "description" : "Volante para simulacion compatible con xbox360, xbox one, xbox series x/s y PC",
+        "price": 5000,
+        "platform" : "Xbox",
+        "img": "https://c1.neweggimages.com/ProductImage/26-606-035-S03.jpg",
+        "stock": 25,
+        "brand":"Trustmaster"
+    },
+    {
+        "id": "3",
+        "title": "Trustmaster t300",
+        "description" : "Volante para simulacion compatible con PS3, PS4, PS5 y PC",
+        "price": 10000,
+        "platform" : "PS",
+        "img": "https://m.media-amazon.com/images/I/81eiBUipVVL.jpg",
+        "stock": 25,
+        "brand":"Trustmaster"
+    },
+    {
+        "id": "4",
+        "title": "logitech g29",
+        "description" : "Volante para simulacion compatible con PS3, PS4, PS5 y PC",
+        "price": 5000,
+        "platform" : "PS",
+        "img": "https://tiendasarcadia.com/wp-content/uploads/nc/p/1/7/1/6/7/17167.jpg",
+        "stock": 25,
+        "brand":"Logitech"
+    },
+    {
+        "id": "5",
+        "title": "logitech g920",
+        "description" : "Volante para simulacion compatible con xbox360, xbox one, xbox series x/s y PC",
+        "price": 5000,
+        "platform" : "Xbox",
+        "img": "https://m.media-amazon.com/images/I/713hqmmfGSL._AC_SY450_.jpg",
+        "stock": 25,
+        "brand":"Logitech"
+    } 
+]
